@@ -6,7 +6,7 @@ Welcome to my protfolio, this is where I showcase my projects related  to the da
 - Data Engineering
 - SQL
 - Python
-- Tableau/ Power BI
+- Tableau/ Power BI/ Looker
 
 # Data Engineering
 
@@ -20,4 +20,4 @@ Welcome to my protfolio, this is where I showcase my projects related  to the da
 
 
 
-# Tableau/ PowerBI
+# Tableau/ Power BI/ Looker
