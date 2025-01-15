@@ -13,7 +13,7 @@ Welcome to my protfolio, this is where I showcase my projects related  to the da
 
 
 # SQL
-
+|
 
 
 # Python
