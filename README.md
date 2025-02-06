@@ -13,7 +13,10 @@ Welcome to my protfolio, this is where I showcase my projects related  to the da
 
 
 # SQL
-|
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------ |
+| 8-Week-SQL-Challenge  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
 
 
 # Python
