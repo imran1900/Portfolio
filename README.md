@@ -9,8 +9,11 @@ Welcome to my protfolio, this is where I showcase my projects related  to the da
 - Tableau/ Power BI/ Looker
 
 # Data Engineering
-
-
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
 
 # SQL
 | First Header  | Second Header | Third Header |
@@ -20,7 +23,16 @@ Welcome to my protfolio, this is where I showcase my projects related  to the da
 
 
 # Python
-
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
 
 
 # Tableau/ Power BI/ Looker
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
