@@ -16,10 +16,10 @@ Welcome to my portfolio, this is where I showcase my projects related to the dat
 | Content Cell  | Content Cell  | Content Cell |
 
 # SQL
-| First Header  | Area of Analysis | Third Header |
+| First Header  | Area of Analysis | Project Description |
 | ------------- | ------------- | ------------ |
 | 8-Week-SQL-Challenge  | Content Cell  | Content Cell |
-| E-commerce Product Performance Case Study  | Data Cleaning, Data analysis, Visualization, Insights & Recommendation  | Content Cell |
+| E-commerce Product Performance Case Study  | Data Cleaning, Data analysis, Visualization, Insights & Recommendation  | I took this dataset from kaggle with the intent of analyzing the performance of different product categories in an  e-commerce setting. The goal of this project is to use key business metrics and provide actionable insights for strategic decision making.  |
 
 
 # Python
