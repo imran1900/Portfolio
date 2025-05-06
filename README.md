@@ -16,10 +16,10 @@ Welcome to my portfolio, this is where I showcase my projects related to the dat
 | Content Cell  | Content Cell  | Content Cell |
 
 # SQL
-| First Header  | Second Header | Third Header |
+| First Header  | Area of Analysis | Third Header |
 | ------------- | ------------- | ------------ |
 | 8-Week-SQL-Challenge  | Content Cell  | Content Cell |
-| E-commerce Product Performance Case Study  | Content Cell  | Content Cell |
+| E-commerce Product Performance Case Study  | Data Cleaning, Data analysis, Visualization, Insights & Recommendation  | Content Cell |
 
 
 # Python
