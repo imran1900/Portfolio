@@ -1,6 +1,6 @@
 # Imran's Portfolio
 
-Welcome to my protfolio, this is where I showcase my projects related  to the data field.
+Welcome to my portfolio, this is where I showcase my projects related to the data field.
 
 ## Table of Contents
 - Data Engineering
@@ -19,7 +19,7 @@ Welcome to my protfolio, this is where I showcase my projects related  to the da
 | First Header  | Second Header | Third Header |
 | ------------- | ------------- | ------------ |
 | 8-Week-SQL-Challenge  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  | Content Cell |
+| E-commerce Product Performance Case Study  | Content Cell  | Content Cell |
 
 
 # Python
