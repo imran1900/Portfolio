@@ -1,19 +1,12 @@
 # Imran's Portfolio
 
-Welcome to my portfolio, this is where I showcase my projects related to the data field.
+Welcome to my portfolio, this is where I showcase all of my projects
 
 ## Table of Contents
-- Data Engineering
 - SQL
 - Python
 - Tableau/ Power BI/ Looker
 
-# Data Engineering
-| First Header  | Second Header | Third Header |
-| ------------- | ------------- | ------------ |
-| Content Cell  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  | Content Cell |
 
 # SQL
 | First Header  | Area of Analysis | Project Description |
