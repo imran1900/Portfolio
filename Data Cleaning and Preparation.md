@@ -1,4 +1,4 @@
-# Product Discounting Analysis 
+# Data Cleaning and Preparation
 
 ## Objectives
 
