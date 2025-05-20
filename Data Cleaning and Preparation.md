@@ -1,13 +1,18 @@
 # Data Cleaning and Preparation
 
 ## Objectives
-
+- Handle duplicate and missing values
+- Normalize text values (lowercase, remove whitestrips, remove special characters)
+- Create derived metrics for exploratory analysis:
+  - rating_score = rating x rating_count
+  - id_discounted
+  - price_tier
 
 ***
 
 ## Database Schema 
 
-
+ecommerce_data - contains the details for products and brands 
 
 ***
 
