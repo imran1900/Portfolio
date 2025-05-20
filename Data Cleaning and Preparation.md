@@ -4,11 +4,9 @@
 - Handle duplicate and missing values
 - Normalize text values (lowercase, remove whitestrips, remove special characters)
 - Create derived metrics for exploratory analysis:
-```python
   - rating_score = rating x rating_count
   - id_discounted
   - price_tier
-```
 
 ***
 
